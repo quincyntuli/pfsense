@@ -25,7 +25,7 @@ This requires 3 Linux Bridges.
 
 The physical host I used contains  1 physical NIC and a USB wireless NIC. Only the physical NIC will be used for the Linux Bridge. `vmbr0` was created by default.
 
-![[initial-linux-bridge.png]]
+![Initial Linux Bridges](https://raw.githubusercontent.com/quincyntuli/pfsense/main/img/initial-linux-bridge.png)
 
 - vmbr1 (for WAN) -- IP4/CIDR 10.0.0.1/30
 - vmbr2 (for LAN)  --  IP4/CIDR 192.168.1.1/24
