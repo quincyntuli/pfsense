@@ -32,3 +32,6 @@ The physical host I used contains  1 physical NIC and a USB wireless NIC. Only t
 - vmbr3 (for 2 VLANS) - No defined addresses.
 
 ![()](https://youtu.be/Q3AMCqsLGro)
+
+
+[![Everything Is AWESOME](https://i.stack.imgur.com/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
