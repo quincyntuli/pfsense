@@ -33,3 +33,4 @@ The physical host I used contains  1 physical NIC and a USB wireless NIC. Only t
 
 ![()](https://youtu.be/Q3AMCqsLGro)
 
+![()](https://github.com/quincyntuli/pfsense/raw/main/mp4/output.webp)
