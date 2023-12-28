@@ -31,4 +31,4 @@ The physical host I used contains  1 physical NIC and a USB wireless NIC. Only t
 - vmbr2 (for LAN)  --  IP4/CIDR 192.168.1.1/24
 - vmbr3 (for 2 VLANS) - No defined addresses.
 
-![[virtual-bridge-45.mp4]]
+![adding virtual bridges](https://github.com/quincyntuli/pfsense/blob/main/mp4/virtual-bridge-45.mp4)
