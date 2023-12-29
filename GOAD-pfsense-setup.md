@@ -1,4 +1,4 @@
-t### Disclaimer
+### Disclaimer
 
 > [!NOTE]
 > These notes are ~~strongly inspired~~ copied from [Mayfly's notes](https://mayfly277.github.io/posts/GOAD-on-proxmox-part1-install/#prepare-for-pfsense) as part of his installation notes for Game of Active Directory Proxmox setup. 
@@ -7,7 +7,7 @@ t### Disclaimer
 > 
 > I strongly recommend that you stick to his notes as mine are merely interpretation.
 
-### Three Networks
+### Three Subnets
 
 The notes describe what I perceive as 3 separate networks; two classic subnets and a VLAN
 
@@ -32,5 +32,7 @@ The physical host I used contains  1 physical NIC and a USB wireless NIC. Only t
 - vmbr3 (for 2 VLANS) - No defined addresses.
 
 
-
 ![()](https://github.com/quincyntuli/pfsense/raw/main/mp4/output-1m.webp)
+
+
+
