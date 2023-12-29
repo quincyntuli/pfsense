@@ -31,11 +31,14 @@ The physical host I used contains  1 physical NIC and a USB wireless NIC. Only t
 - vmbr2 (for LAN)  --  IP4/CIDR 192.168.1.1/24
 - vmbr3 (for 2 VLANS) - No defined addresses.
 
+### 1. Setup the Bridges and VLANs
+
 
 ![()](https://github.com/quincyntuli/pfsense/raw/main/mp4/output-1m.webp)
 
-### Download the .iso
+### 2. Download the .iso
 
+![()](https://github.com/quincyntuli/pfsense/raw/main/img/Downloading-pfsense-audio-15S.webp)
 
 
 
