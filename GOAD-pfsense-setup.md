@@ -1,4 +1,4 @@
-### Disclaimer
+t### Disclaimer
 
 > [!NOTE]
 > These notes are ~~strongly inspired~~ copied from [Mayfly's notes](https://mayfly277.github.io/posts/GOAD-on-proxmox-part1-install/#prepare-for-pfsense) as part of his installation notes for Game of Active Directory Proxmox setup. 
@@ -30,6 +30,7 @@ The physical host I used contains  1 physical NIC and a USB wireless NIC. Only t
 - vmbr1 (for WAN) -- IP4/CIDR 10.0.0.1/30
 - vmbr2 (for LAN)  --  IP4/CIDR 192.168.1.1/24
 - vmbr3 (for 2 VLANS) - No defined addresses.
+
 
 
 ![()](https://github.com/quincyntuli/pfsense/raw/main/mp4/output.webp)
