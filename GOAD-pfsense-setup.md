@@ -44,6 +44,7 @@ The physical host I used contains  1 physical NIC and a USB wireless NIC. Only t
 
 
 ### 3. Upload .iso to Proxmox
+![()](https://github.com/quincyntuli/pfsense/raw/main/img/Upload-iso.webp)
 
 
 
