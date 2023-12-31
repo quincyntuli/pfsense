@@ -38,7 +38,16 @@ The physical host I used contains  1 physical NIC and a USB wireless NIC. Only t
 
 ### 2. Download the .iso
 
-![()](https://github.com/quincyntuli/pfsense/raw/main/img/Downloading-pfsense-audio-15S.webp)
+![()](https://github.com/quincyntuli/pfsense/raw/main/img/GOAS-New-3-pic-at-end.webp)
+
+
+
+
+### 3. Upload .iso to Proxmox
+
+
+
+
 
 
 
