@@ -15,7 +15,7 @@ The notes describe what I perceive as 3 separate networks; two classic subnets a
    - 10.0.0.1 - for Proxmox
    - 10.0.0.2 - for pfsense
 - 192.168.1.1/24
-   - for pfsense
+   - for pfSense
    - for provisioning machime
 - 192.168.10.1/24 (VLAN1)
    - This the VLAN for the hosts that make up the GOAD network
@@ -33,18 +33,21 @@ The physical host I used contains  1 physical NIC and a USB wireless NIC. Only t
 
 ### 1. Setup the Bridges and VLANs
 
-
 ![()](https://github.com/quincyntuli/pfsense/raw/main/mp4/output-1m.webp)
 
 ### 2. Download the .iso
 
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/GOAS-New-3-pic-at-end.webp)
 
+### 3. Upload pfSense .iso to Proxmox
 
-
-
-### 3. Upload .iso to Proxmox
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/Upload-iso.webp)
+
+
+### 4. Setup shell for pfSense
+<iframe width="800" height="444" src="https://www.youtube.com/embed/gS_4dW67zyM?si=kOGNqeHoXgUE31MJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
 
 
 
