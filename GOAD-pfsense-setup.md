@@ -45,9 +45,8 @@ The physical host I used contains  1 physical NIC and a USB wireless NIC. Only t
 
 
 ### 4. Setup shell for pfSense
-<iframe width="800" height="444" src="https://www.youtube.com/embed/gS_4dW67zyM?si=kOGNqeHoXgUE31MJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-
+![()](https://github.com/quincyntuli/pfsense/raw/main/img/Create-Shell-For-pfsense.webp)
 
 
 
