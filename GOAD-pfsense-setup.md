@@ -15,7 +15,7 @@ The physical host I used contains  1 physical NIC, `vmbr0` was created by defaul
 
 The image above depicts the initial network layout. This is Proxmox box is sitting in a home LAN with IP address 192.168.2.106 as depicted by `vmbr0`.
 
-Additional virtual network bridges will be defined as follows.
+Additional virtual network bridges will be defined. I have interpreted in the following way but I have doubts in the hierarchy I have setup here.
 
 - vmbr1
   - 1 subnet defined for WAN (IP4/CIDR 10.0.0.1/30)
@@ -42,8 +42,11 @@ Additional virtual network bridges will be defined as follows.
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/Upload-iso.webp)
 
 
-### 4. Setup shell for pfSense
+### 4. Setup VM for pfSense
 
+Create a new VM
+- General
+ 
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/Create-Shell-For-pfsense.webp)
 
 
