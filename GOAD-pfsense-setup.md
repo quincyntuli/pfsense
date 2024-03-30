@@ -7,22 +7,6 @@
 > 
 > I strongly recommend that you stick to his notes as mine are merely interpretation. I could be leading you astray.
 
-
-
-### Three Subnets
-
-The notes describe what I perceive as 3 separate networks; two classic subnets and a VLAN
-
-- 10.0.0.1/30
-   - 10.0.0.1 - for Proxmox
-   - 10.0.0.2 - for pfsense
-- 192.168.1.1/24
-   - for pfSense
-   - for provisioning machime
-- 192.168.10.1/24 (VLAN1)
-   - This the VLAN for the hosts that make up the GOAD network
-
-This requires 3 Linux Bridges.
 ### Three Linux Bridges
 
 The physical host I used contains  1 physical NIC, `vmbr0` was created by default.
@@ -33,9 +17,17 @@ The image above depicts the initial network layout. This is Proxmox box is sitti
 
 Additional virtual network bridges will be defined as follows.
 
-- vmbr1 (for WAN) -- IP4/CIDR 10.0.0.1/30
-- vmbr2 (for LAN)  --  IP4/CIDR 192.168.1.1/24
-- vmbr3 (for 2 VLANS) .
+- vmbr1 
+ - 1 subnet defined for WAN (IP4/CIDR 10.0.0.1/30)
+   - 10.0.0.1 - for Proxmox host
+   - 10.0.0.2 - for pfSense VM
+- vmbr2 
+ - 1 subnet defined for  LAN (IP4/CIDR 192.168.1.1/24)
+   - 192.168.1.1 - Proxmox host
+   - 192.168.1.2 - pfSense VM
+   - 192.168.1.3 - Provisioning container
+- vmbr3
+ - 2 VLANs defined for VLAN1 (IP4/CIDR 192.168.10.0/24) and VLAN2 (IP4/CIDR 192.168.20.0/24)
 
 ### 1. Setup the Bridges and VLANs
 
