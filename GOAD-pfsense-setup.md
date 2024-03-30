@@ -17,17 +17,17 @@ The image above depicts the initial network layout. This is Proxmox box is sitti
 
 Additional virtual network bridges will be defined as follows.
 
-- vmbr1 
- - 1 subnet defined for WAN (IP4/CIDR 10.0.0.1/30)
+- vmbr1
+-- 1 subnet defined for WAN (IP4/CIDR 10.0.0.1/30)
    - 10.0.0.1 - for Proxmox host
    - 10.0.0.2 - for pfSense VM
 - vmbr2 
- - 1 subnet defined for  LAN (IP4/CIDR 192.168.1.1/24)
+-- 1 subnet defined for  LAN (IP4/CIDR 192.168.1.1/24)
    - 192.168.1.1 - Proxmox host
    - 192.168.1.2 - pfSense VM
    - 192.168.1.3 - Provisioning container
 - vmbr3
- - 2 VLANs defined for VLAN1 (IP4/CIDR 192.168.10.0/24) and VLAN2 (IP4/CIDR 192.168.20.0/24)
+-- 2 VLANs defined for VLAN1 (IP4/CIDR 192.168.10.0/24) and VLAN2 (IP4/CIDR 192.168.20.0/24)
 
 ### 1. Setup the Bridges and VLANs
 
