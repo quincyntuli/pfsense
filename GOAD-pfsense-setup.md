@@ -25,9 +25,13 @@ The notes describe what I perceive as 3 separate networks; two classic subnets a
 This requires 3 Linux Bridges.
 ### Three Linux Bridges
 
-The physical host I used contains  1 physical NIC, `vmbr0` seems to have been created by default.
+The physical host I used contains  1 physical NIC, `vmbr0` was created by default.
 
-![Initial Linux Bridges](https://raw.githubusercontent.com/quincyntuli/pfsense/main/img/initial-linux-bridge.png)
+![Initial Linux Bridges](https://raw.githubusercontent.com/quincyntuli/pfsense/main/img/initial-linux-bridge-2.png)
+
+The image above depicts the initial network layout. This is Proxmox box is sitting in a home LAN with IP address 192.168.2.106 as depicted by `vmbr0`.
+
+Additional virtual network bridges will be defined as follows.
 
 - vmbr1 (for WAN) -- IP4/CIDR 10.0.0.1/30
 - vmbr2 (for LAN)  --  IP4/CIDR 192.168.1.1/24
