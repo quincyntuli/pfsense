@@ -1,11 +1,13 @@
 ### Disclaimer
 
 > [!NOTE]
-> These notes are ~~strongly inspired~~ copied from [Mayfly's notes](https://mayfly277.github.io/posts/GOAD-on-proxmox-part1-install/#prepare-for-pfsense) as part of his installation notes for Game of Active Directory Proxmox setup. 
+> These notes are ~~strongly inspired~~ copied (with minor adjustments) from [Mayfly's notes](https://mayfly277.github.io/posts/GOAD-on-proxmox-part1-install/#prepare-for-pfsense) as part of his installation notes for Game of Active Directory Proxmox setup. 
 > 
-> I have added a few steps for my own understanding as some of the detail was not immediately apparent to me when I followed his notes.
+> I have added a few steps for my own understanding as some of the details were not immediately apparent to me when I followed his notes.
 > 
-> I strongly recommend that you stick to his notes as mine are merely interpretation.
+> I strongly recommend that you stick to his notes as mine are merely interpretation. I could be leading you astray.
+
+
 
 ### Three Subnets
 
@@ -23,13 +25,13 @@ The notes describe what I perceive as 3 separate networks; two classic subnets a
 This requires 3 Linux Bridges.
 ### Three Linux Bridges
 
-The physical host I used contains  1 physical NIC and a USB wireless NIC. Only the physical NIC will be used for the Linux Bridge. `vmbr0` was created by default.
+The physical host I used contains  1 physical NIC, `vmbr0` seems to have been created by default.
 
 ![Initial Linux Bridges](https://raw.githubusercontent.com/quincyntuli/pfsense/main/img/initial-linux-bridge.png)
 
 - vmbr1 (for WAN) -- IP4/CIDR 10.0.0.1/30
 - vmbr2 (for LAN)  --  IP4/CIDR 192.168.1.1/24
-- vmbr3 (for 2 VLANS) - No defined addresses.
+- vmbr3 (for 2 VLANS) .
 
 ### 1. Setup the Bridges and VLANs
 
@@ -49,6 +51,23 @@ The physical host I used contains  1 physical NIC and a USB wireless NIC. Only t
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/Create-Shell-For-pfsense.webp)
 
 
+
+
+
+
+
+
+
+### 5. Install pfSense
+
+Start the VM and follow the prompts as directed. The end result should be pfsense interfaces configured as follows:
+
+- WAN --> vtnet0 --> 10.0.0.2/30
+- LAN --> vtnet1 --> 192.168.1.2/24
+- OPT1 --> vtnet2 --> (blank - no IP addresses defined.)
+
+
+### 6. Configure pfsense
 
 
 
