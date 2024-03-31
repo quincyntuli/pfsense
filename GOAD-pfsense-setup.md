@@ -43,7 +43,7 @@ Download pfSense Community edition. https://www.pfsense.org/download/
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/Upload-iso.webp)
 
 
-## 4. Setup VM for pfSense
+## 4. Setup pfSense VM
 
 i. *General Tab*
 
@@ -79,7 +79,22 @@ viii. *Confirm Tab*
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Confirm-Finished.png'><br><ins>Confirmation Tab remains unchanged</ins></div>
 
-### 5. Run pfSense setup Wizard
+## 5. Run pfSense setup Wizard
+
+
+### 5.1
+
+
+
+
+
+
+
+
+
+
+
+
 
 Start the VM and follow the prompts as directed. The end result should be pfSense interfaces configured as follows:
 
@@ -93,4 +108,8 @@ Start the VM and follow the prompts as directed. The end result should be pfSens
 
 
 
+
+
+
+## 5. pfSense Setup
 
