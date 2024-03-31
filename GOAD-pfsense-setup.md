@@ -97,9 +97,11 @@ Add virtual network devices *(bridges)* 3 times until all 3 are added (vmbr1, vm
 ### 6.1 Copyright and Trademark Notices.
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-Eula.png'><br><ins>Accept EULA</ins></div>
+
 ### 6.2 Welcome to pfSense.
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-Welcome.png'><br><ins>Accept EULA</ins></div>
+
 ### 6.3 Disk partitioning.
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-Partition.png'><br><ins>Disk Partitioning</ins></div>
@@ -123,21 +125,14 @@ Add virtual network devices *(bridges)* 3 times until all 3 are added (vmbr1, vm
 ### 6.8 Install Wizard Executing
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-Install-Progress.png'><br><ins>Install Wizard Executing</ins></div>
+
 ### 6.9 Install Wizard Reboot
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-Install-Reboot.png'><br><ins>Install Wizard Reboot</ins></div>
+
 ### 6.10 VLAN setup
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Initial-Reboot-VLAN-question.png'><br><ins>VLAN setup</ins></div>
-
-
-
-
-
-
-
-
-
 
 Start the VM and follow the prompts as directed. The end result should be pfSense interfaces configured as follows:
 
