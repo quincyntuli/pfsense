@@ -82,7 +82,12 @@ viii. *Confirm Tab*
 ## 5. Run pfSense setup Wizard
 
 
-### 5.1
+### 5.1 Copyright and Trademark Notices.
+
+### 5.2 Welcome to pfSense.
+
+### 5.3 Disk partitioning.
+
 
 
 
