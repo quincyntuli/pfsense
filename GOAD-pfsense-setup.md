@@ -81,11 +81,7 @@ vii. *Network Tab*
 
 viii. *Confirm Tab*
 
-![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Confirm-Finished.png)
-<div align="center"><ins>Confirmation Tab remains unchanged</ins></div>
-
-
-
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Confirm-Finished.png'><br><ins>Confirmation Tab remains unchanged</ins></div>
 
 ### 5. Run pfSense setup Wizard
 
