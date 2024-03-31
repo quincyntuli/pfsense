@@ -77,7 +77,6 @@ vi. *Memory Tab*
 
 vii. *Network Tab*
 
-![Network Tab remains unchanged](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Network-unchanged.png)
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Network-unchanged.png'><br><ins>Network Tab remains unchanged</ins></div>
 
 viii. *Confirm Tab*
