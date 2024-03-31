@@ -35,9 +35,8 @@ Additional virtual network bridges will be defined. I have interpreted in the fo
 ## 2. Download the .iso
 
 Download pfSense Community edition. https://www.pfsense.org/download/
-
  
-![()](https://github.com/quincyntuli/pfsense/raw/main/img/GOAS-New-3-pic-at-end.webp)
+![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Download.png)
 
 ## 3. Upload pfSense .iso to Proxmox
 
