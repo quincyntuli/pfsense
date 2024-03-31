@@ -143,7 +143,9 @@ Add virtual network devices *(bridges)* 3 times until all 3 are added (vmbr1, vm
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-02.png'><br><ins>LAN Interface Name</ins></div>
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-03.png'><br><ins>Option 1 Interface Name</ins></div>
+
 ### 6.12 Setup WAN interface address
+
 
 i. *WAN IP not present*
 
