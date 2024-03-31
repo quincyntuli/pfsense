@@ -45,16 +45,27 @@ Download pfSense Community edition. https://www.pfsense.org/download/
 
 ## 4. Setup VM for pfSense
 
-1. *General*
+i. *General Tab*
 
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-General-Name.png)
 <center><u>Create VM - General</u></center>
 
-2. *Select Operating System*
+ii. *OS Tab*
 
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Select-ISO.png)
 <center><u>Select uploaded .iso</u></center>
 
+
+iii. *System Tab*
+
+![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Select-ISO.png)
+<center><u>No changes on System Tab</u></center>
+
+
+iv. *Disks*
+
+![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Select-ISO.png)
+<center><u>Change size to 50 gigs</u></center>
 
 
 
