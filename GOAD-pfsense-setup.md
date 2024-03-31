@@ -53,7 +53,7 @@ Download pfSense Community edition. https://www.pfsense.org/download/
 2. *OS*
 
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-General-Name.png)
-<center><u>Create VM - OS</u></center>
+<center><u>Select uploaded .iso</u></center>
 
 
 
