@@ -145,20 +145,25 @@ Add virtual network devices *(bridges)* 3 times until all 3 are added (vmbr1, vm
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-03.png'><br><ins>Option 1 Interface Name</ins></div>
 ### 6.12 Setup WAN interface address
 
+i. *WAN IP not present*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-05.png'><br><ins>WAN Interface IP not set</ins></div>
+
+ii. *Select interface IP address*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-06.png'><br><ins>Select interface IP address</ins></div>
+
+iii. *Define WAN IP address*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-08.png'><br><ins>Define WAN IP address</ins></div>
+
+iv. *Confirmation WAN IP address set*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-09.png'><br><ins>Confirmation WAN IP address set - 01</ins></div>
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-10.png'><br><ins>Confirmation WAN IP address set - 02</ins></div>
 
 
 
-
-
-****
-
-
-
-
-Start the VM and follow the prompts as directed. The end result should be pfSense interfaces configured as follows:
-
-- WAN --> vtnet0 --> 10.0.0.2/30
-- LAN --> vtnet1 --> 192.168.1.2/24
-- OPT1 --> vtnet2 --> (blank - no IP addresses defined.)
 
 
