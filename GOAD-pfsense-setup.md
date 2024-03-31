@@ -47,28 +47,25 @@ Download pfSense Community edition. https://www.pfsense.org/download/
 
 i. *General Tab*
 
-![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-General-Name.png)
-<center><u>Create VM - General</u></center>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-General-Name.png'><br><ins>Create VM - General</ins></div>
 
 ii. *OS Tab*
 
-![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Select-ISO.png)
-<center><u>Select uploaded .iso</u></center>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Select-ISO.png'><br><ins>Select uploaded .iso</ins></div>
+
 
 iii. *System Tab*
 
-![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-System-Nothing-Changed.png)
-<center><u>No changes on System Tab</u></center>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-System-Nothing-Changed.png'><br><ins>No changes on System Tab</ins></div>
 
 iv. *Disks Tab*
 
-![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Disks-Change-Disc-Size.png)
-<center><u>Change size to 50 gigs</u></center>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Disks-Change-Disc-Size.png'><br><ins>Change size to 50 gigs</ins></div>
 
 v. *CPU Tab*
 
-![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-CPU-2-cores-1-socket.png)
-<center><u>Change size to 2 cores 1 socket</u></center>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-CPU-2-cores-1-socket.png'><br><ins>Change size to 2 cores 1 socket</ins></div>
+
 
 vi. *Memory Tab*
 
