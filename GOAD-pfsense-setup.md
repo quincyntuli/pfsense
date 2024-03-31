@@ -72,8 +72,7 @@ v. *CPU Tab*
 
 vi. *Memory Tab*
 
-![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Memory-3GiB.png)
-<center><u>Change Memory to 3 GiB</u></center>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Memory-3GiB.png'><br><ins>Change Memory to 3 GiB</ins></div>
 
 vii. *Network Tab*
 
