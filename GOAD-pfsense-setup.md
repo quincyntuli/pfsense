@@ -83,14 +83,14 @@ vii. *Network Tab*
 viii. *Confirm Tab*
 
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Confirm-Finished.png)
-<center><u>Confirmation Tab remains unchanged</u></center>
+<div align="center"><ins>Confirmation Tab remains unchanged</ins></div>
 
 
 
 
 ### 5. Run pfSense setup Wizard
 
-Start the VM and <ins>follow</ins> the prompts as directed. The end result should be pfSense interfaces configured as follows:
+Start the VM and follow the prompts as directed. The end result should be pfSense interfaces configured as follows:
 
 - WAN --> vtnet0 --> 10.0.0.2/30
 - LAN --> vtnet1 --> 192.168.1.2/24
