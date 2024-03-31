@@ -73,20 +73,24 @@ vi. *Memory Tab*
 
 vii. *Network Tab*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Network-unchanged.png'><br><ins>Network Tab remains unchanged</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Network-No-Network-Interface.png'><br><ins>Network Tab - no network device</ins></div>
 
 viii. *Confirm Tab*
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Confirm-Finished.png'><br><ins>Confirmation Tab remains unchanged</ins></div>
 
-## 5. Run pfSense setup Wizard
+## 5. Add (virtual) network devices
 
 
-### 5.1 Copyright and Trademark Notices.
 
-### 5.2 Welcome to pfSense.
+## 6. Run pfSense setup Wizard
 
-### 5.3 Disk partitioning.
+
+### 6.1 Copyright and Trademark Notices.
+
+### 6.2 Welcome to pfSense.
+
+### 6.3 Disk partitioning.
 
 
 
