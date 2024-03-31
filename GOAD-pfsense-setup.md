@@ -81,7 +81,9 @@ viii. *Confirm Tab*
 
 ## 5. Add (virtual) network devices
 
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-Add-Network-Device-initial-01.png'><br><ins>Add Virtual Network Device</ins></div>
 
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-Add-Network-Device-initial-02.png'><br><ins>Add Virtual Network Bridges (vmbr1, vmbr2, vmbr3)</ins></div>
 
 ## 6. Run pfSense setup Wizard
 
