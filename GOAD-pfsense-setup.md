@@ -90,7 +90,7 @@ viii. *Confirm Tab*
 
 ### 5. Run pfSense setup Wizard
 
-Start the VM and follow the prompts as directed. The end result should be pfSense interfaces configured as follows:
+Start the VM and <u>follow</u> the prompts as directed. The end result should be pfSense interfaces configured as follows:
 
 - WAN --> vtnet0 --> 10.0.0.2/30
 - LAN --> vtnet1 --> 192.168.1.2/24
