@@ -51,12 +51,12 @@ i. *General Tab*
 
 ii. *OS Tab*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Select-ISO.png'><br><ins>Select uploaded .iso</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Select-ISO.png' width="90%"><br><ins>Select uploaded .iso</ins></div>
 
 
 iii. *System Tab*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-System-Nothing-Changed.png'><br><ins>No changes on System Tab</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-System-Nothing-Changed.png'  width="90%"><br><ins>No changes on System Tab</ins></div>
 
 iv. *Disks Tab*
 
@@ -64,12 +64,12 @@ iv. *Disks Tab*
 
 v. *CPU Tab*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-CPU-2-cores-1-socket.png'><br><ins>Change size to 2 cores 1 socket</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-CPU-2-cores-1-socket.png'  width="90%"><br><ins>Change size to 2 cores 1 socket</ins></div>
 
 
 vi. *Memory Tab*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Memory-3GiB.png'><br><ins>Change Memory to 3 GiB</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Memory-3GiB.png'  width="90%"><br><ins>Change Memory to 3 GiB</ins></div>
 
 vii. *Network Tab*
 
