@@ -1,4 +1,4 @@
-### Disclaimer
+# Disclaimer
 
 > [!NOTE]
 > These notes are ~~strongly inspired~~ copied (with minor adjustments) from [Mayfly's notes](https://mayfly277.github.io/posts/GOAD-on-proxmox-part1-install/#prepare-for-pfsense) as part of his installation notes for Game of Active Directory Proxmox setup. 
@@ -7,7 +7,7 @@
 > 
 > I strongly recommend that you stick to his notes as mine are merely interpretation. I could be leading you astray.
 
-### Three Linux Bridges
+## 1. Set up Linux Bridges and VLANs
 
 The physical host I used contains  1 physical NIC, `vmbr0` was created by default.
 
@@ -29,26 +29,32 @@ Additional virtual network bridges will be defined. I have interpreted in the fo
 - vmbr3
   - 2 VLANs defined for VLAN1 (IP4/CIDR 192.168.10.0/24) and VLAN2 (IP4/CIDR 192.168.20.0/24)
 
-### 1. Setup the Bridges and VLANs
 
 ![()](https://github.com/quincyntuli/pfsense/raw/main/mp4/output-1m.webp)
 
-### 2. Download the .iso
+## 2. Download the .iso
 
+Download pfSense Community edition. https://www.pfsense.org/download/
+
+ 
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/GOAS-New-3-pic-at-end.webp)
 
-### 3. Upload pfSense .iso to Proxmox
+## 3. Upload pfSense .iso to Proxmox
 
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/Upload-iso.webp)
 
 
-### 4. Setup VM for pfSense
+## 4. Setup VM for pfSense
 
-Create a new VM
-- General
- 
-![()](https://github.com/quincyntuli/pfsense/raw/main/img/Create-Shell-For-pfsense.webp)
+1. *General*
 
+![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-General-Name.png)
+<center><u>Create VM - General</u></center>
+
+2. *OS*
+
+![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-General-Name.png)
+<center><u>Create VM - OS</u></center>
 
 
 
