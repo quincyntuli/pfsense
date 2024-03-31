@@ -83,8 +83,9 @@ viii. *Confirm Tab*
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-Add-Network-Device-initial-01.png'><br><ins>Add Virtual Network Device</ins></div>
 
- 
+ <br>
 Add virtual network devices *(bridges)* 3 times until all 3 are added (vmbr1, vmbr2, vmbr3)
+<br>
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-Add-Network-Device-initial-02.png'><br><ins>Add Virtual Network Bridges (vmbr1, vmbr2, vmbr3)</ins></div>
 
