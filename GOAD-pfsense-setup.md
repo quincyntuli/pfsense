@@ -159,7 +159,7 @@ iii. *Define WAN IP address*
 
 iv. *Confirmation WAN IP address set*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-09.png'><br><ins>Confirmation WAN IP address set - 01</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-091.png'><br><ins>Confirmation WAN IP address set - 01</ins></div>
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-10.png'><br><ins>Confirmation WAN IP address set - 02</ins></div>
 
