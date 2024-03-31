@@ -64,10 +64,16 @@ iv. *Disks Tab*
 ![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Disks-Change-Disc-Size.png)
 <center><u>Change size to 50 gigs</u></center>
 
-v. *CPU*
+v. *CPU Tab*
 
-![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Disks-Change-Disc-Size.png)
-<center><u>Change size to 1 sockets 2 cores</u></center>
+![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-CPU-2-cores-1-socket.png)
+<center><u>Change size to 2 cores 1 socket</u></center>
+
+
+vi. *Memory Tab*
+
+![()](https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Memory-3GiB.png)
+<center><u>Change Memory to 3 GiB</u></center>
 
 
 
