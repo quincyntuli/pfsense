@@ -1,7 +1,7 @@
 # Disclaimer
 
 > [!NOTE]
-> These notes are ~~strongly inspired~~ copied (with minor adjustments) from [Mayfly's notes](https://mayfly277.github.io/posts/GOAD-on-proxmox-part1-install/#prepare-for-pfsense) as part of his installation notes for Game of Active Directory Proxmox setup. 
+> These notes are ~~strongly inspired~~ <strong><ins>copied</ins></strong> (with minor adjustments) from [Mayfly's notes](https://mayfly277.github.io/posts/GOAD-on-proxmox-part1-install/#prepare-for-pfsense) as part of his installation notes for Game of Active Directory Proxmox setup. 
 > 
 > I have added a few steps for my own understanding as some of the details were not immediately apparent to me when I followed his notes.
 > 
@@ -93,7 +93,6 @@ Add virtual network devices *(bridges)* 3 times until all 3 are added (vmbr1, vm
 
 ## 6. Run pfSense setup Wizard
 
-
 ### 6.1 Copyright and Trademark Notices.
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-Eula.png'><br><ins>Accept EULA</ins></div>
@@ -167,5 +166,18 @@ iv. *Confirmation WAN IP address set*
 
 
 
+### 6.13 Setup WAN interface address
 
+
+
+
+
+## 7. Configure pfSense
+
+At this point, Mayfly's notes are straight forward. If you have not already went back to his notes, there is no further value staying here. But if you are still here, thank you.
+
+The only thing you might want to stay here for is that these notes are based on a home-lan setup. For that reason I am not shy about my public address as it is really a LAN address for the Proxmox host computer.
+
+
+### 7.1 
 
