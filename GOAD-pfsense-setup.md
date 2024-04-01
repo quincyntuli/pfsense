@@ -170,7 +170,23 @@ iv. *Confirmation WAN IP address set*
 
 i. *Select Interface IP to change*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-LAN-interface-IP-01.png'><br><ins>Define WAN IP address</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-LAN-interface-IP-01.png'><br><ins>Set Interface IP address 01</ins></div>
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-LAN-interface-IP-0.png'><br><ins>Set Interface IP address 02</ins></div>
+
+
+ii. *Define LAN IP Address settings*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-LAN-interface-IP-02.png'><br><ins>Define LAN IP Address settings</ins></div>
+
+iii. *Define DHCP IP Range*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-LAN-interface-IP-03.png'><br><ins>Define DHCP IP Range</ins></div>
+
+
+iv. LAN IP change confirmed
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-LAN-interface-IP-04.png'><br><ins>LAN IP change confirmed</ins></div>
 
 
 
