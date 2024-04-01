@@ -162,13 +162,15 @@ iv. *Confirmation WAN IP address set*
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-091.png'><br><ins>Confirmation WAN IP address set - 01</ins></div>
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-10.png'><br><ins>Confirmation WAN IP address set - 02</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-101.png'><br><ins>Confirmation WAN IP address set - 02</ins></div>
 
 
 
-### 6.13 Setup WAN interface address
+### 6.13 Change LAN interface IP
 
+i. *Select Interface IP to change*
 
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-LAN-interface-IP-01.png'><br><ins>Define WAN IP address</ins></div>
 
 
 
