@@ -221,5 +221,11 @@ This allows us to connect to the pfSense admin interface through http://localhos
 The default creds are 
 `username : admin`
 `password : pfsense`
+
+### 7.2 Configure pfSense
+
+i. *Define host name and domain*
 `
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-02.png'><br><ins>Define pfSense hostname and domain</ins></div>
+
 
