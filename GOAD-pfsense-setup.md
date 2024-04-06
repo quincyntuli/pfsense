@@ -212,7 +212,7 @@ pfSense admin interface accepts connections from localhost by default. This requ
 ssh -L 8082:192.168.1.2:80 root@192.168.2.106
 ```
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-10-Tunneling-Command.png'><br><ins>Tunnelling Command</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-10-Tunneling-Command2.png'><br><ins>Tunnelling Command</ins></div>
 
 
 
