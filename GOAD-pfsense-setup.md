@@ -228,9 +228,15 @@ The default creds are
 
 ### 7.2 Configure pfSense
 
+i. *Welcome Screen*
+`
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-02.png'><br><ins>Welcome Screen</ins></div>
+
+
 i. *Define host name and domain*
 `
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-02.png'><br><ins>Define pfSense hostname and domain</ins></div>
+
 
 
 ii. *Define Time Server Information*
