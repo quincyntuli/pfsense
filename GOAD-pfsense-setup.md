@@ -188,7 +188,7 @@ ii. *Define LAN IP Address settings*
 
 iii. *Define DHCP IP Range*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-LAN-interface-IP-03.png'><br><ins>Define DHCP IP Range</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-Define-DHCP-range.png'><br><ins>Define DHCP IP Range</ins></div>
 
 
 iv. LAN IP change confirmed
