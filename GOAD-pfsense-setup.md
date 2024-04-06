@@ -7,6 +7,9 @@
 > 
 > I strongly recommend that you stick to his notes as mine are merely interpretation. I could be leading you astray.
 
+
+It is important to mention that my setup is set in a home Lan
+
 ## 1. Set up Linux Bridges and VLANs
 
 The physical host I used contains  1 physical NIC, `vmbr0` was created by default.
@@ -192,10 +195,20 @@ iv. LAN IP change confirmed
 
 ## 7. Configure pfSense
 
-At this point, Mayfly's notes are straight forward. If you have not already went back to his notes, there is no further value staying here. But if you are still here, thank you.
 
-The only thing you might want to stay here for is that these notes are based on a home-lan setup. For that reason I am not shy about my public address as it is really a LAN address for the Proxmox host computer.
+> [!NOTE]
+> These notes are apply to  a home LAN use case. For that the **'public address'** in this case would be the home router address (192.168.2.254).
 
 
-### 7.1 
+
+
+pfSense admin interface accepts connections from localhost by default. This requires connections to emanate from 'Notebook' through 'Proxmox' to destination pfSense.
+
+### 7.1 Create Tunnel to port 80
+
+```bash
+ssh -L 8082:192.168.1.2:80 root@192.168.2.106
+```
+
+This allows us to connect to the pfSense admin interface through http://localhost:8082.
 
