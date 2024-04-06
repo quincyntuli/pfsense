@@ -193,7 +193,7 @@ iii. *Define DHCP IP Range*
 
 iv. LAN IP change confirmed
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-LAN-interface-IP-04.png'><br><ins>LAN IP change confirmed</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-LAN-interface-IP-Change-Successful.png'><br><ins>LAN IP change confirmed</ins></div>
 
 
 
