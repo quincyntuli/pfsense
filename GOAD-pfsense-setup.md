@@ -184,7 +184,7 @@ i. *Select Interface IP to change*
 
 ii. *Define LAN IP Address settings*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-LAN-interface-IP-02.png'><br><ins>Define LAN IP Address settings</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-LAN-interface-IP-021.png'><br><ins>Define LAN IP Address settings</ins></div>
 
 iii. *Define DHCP IP Range*
 
