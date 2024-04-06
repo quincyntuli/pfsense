@@ -199,16 +199,22 @@ iv. LAN IP change confirmed
 > [!NOTE]
 > These notes are apply to  a home LAN use case. For that the **'public address'** in this case would be the home router address (192.168.2.254).
 
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-09-LAN.png'><br><ins>Home LAN</ins></div>
 
+pfSense admin interface accepts connections from localhost by default. This requires connections to emanate from 'Notebook' through 'Proxmox' to destination pfSense. That can be achieve through tunnelling
 
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-11-Tunneling.png'><br><ins>Tunnelling</ins></div>
 
-pfSense admin interface accepts connections from localhost by default. This requires connections to emanate from 'Notebook' through 'Proxmox' to destination pfSense.
 
 ### 7.1 Create Tunnel to port 80
 
 ```bash
 ssh -L 8082:192.168.1.2:80 root@192.168.2.106
 ```
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-10-Tunneling-Command.png'><br><ins>Tunnelling Command</ins></div>
+
+
 
 This allows us to connect to the pfSense admin interface through http://localhost:8082.
 
