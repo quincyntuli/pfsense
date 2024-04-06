@@ -214,7 +214,9 @@ ssh -L 8082:192.168.1.2:80 root@192.168.2.106
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-10-Tunneling-Command3.png'><br><ins>Tunnelling Command</ins></div>
 
-
-
 This allows us to connect to the pfSense admin interface through http://localhost:8082.
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-12-pfSense-Web-Interface.png'><br><ins>pfSense Web Interface</ins></div>
+
+
 
