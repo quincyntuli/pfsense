@@ -159,7 +159,7 @@ ii. *Select interface IP address*
 
 iii. *Select interface number*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-061.png'><br><ins>Select interface IP address</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-061.png'><br><ins>Select interface number</ins></div>
 
 iv. *Define WAN IP address*
 
