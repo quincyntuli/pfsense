@@ -163,7 +163,7 @@ iii. *Select interface number*
 
 iv. *Define WAN IP address*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-08.png'><br><ins>Define WAN IP address</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-install-Wizad-WAN-interface-Name-080.png'><br><ins>Define WAN IP address</ins></div>
 
 iv. *Confirmation WAN IP address set*
 
