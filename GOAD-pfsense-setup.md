@@ -229,20 +229,65 @@ The default creds are
 ### 7.2 Configure pfSense
 
 i. *Welcome Screen*
-`
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-021.png'><br><ins>Welcome Screen</ins></div>
 
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-001-of-09.png'><br><ins>Welcome Screen</ins></div>
 
-i. *Define host name and domain*
-`
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-02.png'><br><ins>Define pfSense hostname and domain</ins></div>
+ii. *Welcome Screen*
 
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-002-of-09.png'><br><ins>Welcome Screen</ins></div>
 
+iii. *Welcome Screen*
 
-ii. *Define Time Server Information*
-`
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-02.png'><br><ins>Define pfSense hostname and domain</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-003-of-09.png'><br><ins>Welcome Screen</ins></div>
 
-ii. *Define Time Server Information*
-`
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-02.png'><br><ins>Define pfSense hostname and domain</ins></div>
+iv. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-004-of-09.png'><br><ins>Welcome Screen</ins></div>
+
+v. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-005-of-09.png'><br><ins>Welcome Screen</ins></div>
+
+vi. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-006-of-09.png'><br><ins>Welcome Screen</ins></div>
+
+vii. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-007-of-09.png'><br><ins>Welcome Screen</ins></div>
+
+viii. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-008-of-09.png'><br><ins>Welcome Screen</ins></div>
+
+ix. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-009-of-09.png'><br><ins>Welcome Screen</ins></div>
+
+x. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-010-of-09.png'><br><ins>Welcome Screen</ins></div>
+
+xi. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-011-of-09.png'><br><ins>Welcome Screen</ins></div>
+
+xii. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-012-of-09.png'><br><ins>Welcome Screen</ins></div>
+
+xiii. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-013-of-09.png'><br><ins>Welcome Screen</ins></div>
+
+xiv. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-014-of-09.png'><br><ins>Welcome Screen</ins></div>
+
+xv. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-015-of-09.png'><br><ins>Welcome Screen</ins></div>
+
+vvi. *Welcome Screen*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-016-of-09.png'><br><ins>Welcome Screen</ins></div>
