@@ -230,7 +230,7 @@ The default creds are
 
 i. *Welcome Screen*
 `
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-02.png'><br><ins>Welcome Screen</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-021.png'><br><ins>Welcome Screen</ins></div>
 
 
 i. *Define host name and domain*
