@@ -232,62 +232,106 @@ i. *Welcome Screen*
 
 <div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-001-of-09.png'><br><ins>Welcome Screen</ins></div>
 
-ii. *Welcome Screen*
+ii. *Set Hostname and Domain*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-002-of-09.png'><br><ins>Welcome Screen</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-002-of-09.png'><br><ins></ins>Set Hostname and Domain</div>
 
-iii. *Welcome Screen*
+iii. *Set Timezone*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-003-of-09.png'><br><ins>Welcome Screen</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-003-of-09.png'><br><ins>Set Timezone</ins></div>
 
-iv. *Welcome Screen*
+iv. Configure WAN Interface
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-004-of-09.png'><br><ins>Welcome Screen</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-004-of-09.png'><br><ins>Configure WAN Interface</ins></div>
 
-v. *Welcome Screen*
+v. *Configure LAN Interface*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-005-of-09.png'><br><ins>Welcome Screen</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-005-of-09.png'><br><ins>Configure LAN Interface</ins></div>
 
-vi. *Welcome Screen*
+vi. *Change admin password*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-006-of-09.png'><br><ins>Welcome Screen</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-006-of-09.png'><br><ins>Change admin password</ins></div>
 
-vii. *Welcome Screen*
+vii. *Reload the configuration*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-007-of-09.png'><br><ins>Welcome Screen</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-007-of-09.png'><br><ins>Reload the configuration</ins></div>
 
-viii. *Welcome Screen*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-008-of-09.png'><br><ins>Welcome Screen</ins></div>
 
-ix. *Welcome Screen*
+viii. *Wizard completed*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-009-of-09.png'><br><ins>Welcome Screen</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-009-of-09.png'><br><ins>Wizard completed</ins></div>
 
-x. *Welcome Screen*
+### 7.3 Setup network and firewall
+#### 7.3.1 Disable hardware checksum offload
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-010-of-09.png'><br><ins>Welcome Screen</ins></div>
+i. *System | Advanced*
 
-xi. *Welcome Screen*
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-010-of-09.png'><br><ins>System | Advanced</ins></div>
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-011-of-09.png'><br><ins>Welcome Screen</ins></div>
+ii. *Networking*
 
-xii. *Welcome Screen*
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-011-of-09.png'><br><ins>Networking</ins></div>
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-012-of-09.png'><br><ins>Welcome Screen</ins></div>
+#### 7.3.2 Define WAN Firewall Rule
 
-xiii. *Welcome Screen*
+i. *Interface | Rules*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-013-of-09.png'><br><ins>Welcome Screen</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-012-of-09.png'><br><ins>Interface | Rules</ins></div>
 
-xiv. *Welcome Screen*
+ii. *WAN Allow Rules*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-014-of-09.png'><br><ins>Welcome Screen</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-013-of-09.png'><br><ins>WAN Allow Rules</ins></div>
 
-xv. *Welcome Screen*
+iii. *Add New Rule*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-015-of-09.png'><br><ins>Welcome Screen</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-014-of-09.png'><br><ins>Add New Rule</ins></div>
 
-vvi. *Welcome Screen*
+iv. *Define Block Rule*
 
-<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-016-of-09.png'><br><ins>Welcome Screen</ins></div>
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-015-of-09.png'><br><ins>Define Block Rule</ins></div>
+
+v. *Block Rule Defined*
+
+<div align="center" ><img src='https://github.com/quincyntuli/pfsense/raw/main/img/pFsense-configure-step-016-of-09.png'><br><ins>Block Rule Defined</ins></div>
+
+
+
+
+#### 7.3.3 Change Promox to allow port 22 to 10.0.0.2
+
+i. modify iptables
+
+```bash
+# activate ipforward
+echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward
+# allow icmp to avoid ovh monitoring reboot the host
+iptables -t nat -A PREROUTING -i vmbr0 -p icmp -j ACCEPT
+# allow ssh
+iptables -t nat -A PREROUTING -i vmbr0 -p tcp --dport 22 -j ACCEPT
+# allow proxmox web
+iptables -t nat -A PREROUTING -i vmbr0 -p tcp --dport 8006 -j ACCEPT
+# redirect all to pfsense
+iptables -t nat -A PREROUTING -i vmbr0 -j DNAT --to 10.0.0.2
+# add SNAT WAN -> public ip
+iptables -t nat -A POSTROUTING -o vmbr0 -j SNAT -s 10.0.0.0/30 --to-source 192.168.2.106
+```
+
+ii. backup the rules
+
+```bash
+iptables-save | sudo tee /etc/network/save-iptables
+```
+
+iii Restore the rules when computer starts
+
+```bash
+nano /etc/network/interfaces
+#add the following line at the end
+post-up iptables-restore < /etc/network/save-iptables
+```
+
+
+#### 7.3.4  Setup VLAN
+
+
